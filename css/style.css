@@ -84,3 +84,17 @@ button.bg-danger.slider {
     height: 10px;
     border-radius: 50%;
 }
+@media (min-width: 1400px) {
+    .card-height{
+        height: 75vh;
+    }
+    .card-image{
+        height: 50vh;
+    }
+}
+@media (max-width: 768px) {
+    .card-height{
+        height: auto !important;
+    }
+}
+
