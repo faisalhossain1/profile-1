@@ -4,6 +4,22 @@
     box-sizing: border-box;
     scroll-behavior: smooth;
 }
+.carousel-item{
+    height: 100%;
+}
+.hover-ani :hover{
+    background-color: #dd132b !important;
+    color: white !important;
+}
+.hover-ani :hover i{
+    color: white !important;
+}
+.hover-ani :hover p{
+    color: white !important;
+}
+.hover-ani :hover span{
+    color: white !important;
+}
 .footer .list ul li{
     list-style: none;
 }
